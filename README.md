@@ -33,7 +33,8 @@ An AI-powered full-stack web application that analyzes resumes against job descr
 ## 📸 Screenshots
 
 <img width="1220" height="1291" alt="home" src="https://github.com/user-attachments/assets/de44d898-4331-4c4e-aa45-3c71a997fd2a" />
-<img width="1220" height="1291" alt="home" src="https://github.com/user-attachments/assets/ef7a2727-0748-48ba-960d-3239ca48b384" />
+<img width="1220" height="1269" alt="login" src="https://github.com/user-attachments/assets/b08b894a-1136-409a-ae3d-e0a99a4e1662" />
+<img width="1220" height="1268" alt="analyze" src="https://github.com/user-attachments/assets/afd1ad61-9173-4332-b6be-d639798c38a3" />
 <img width="1220" height="1147" alt="your resume" src="https://github.com/user-attachments/assets/bafac530-5164-4966-afd8-688c8616de2c" />
 <img width="1220" height="1185" alt="your " src="https://github.com/user-attachments/assets/0145624f-a8f2-43e1-8ac9-39c2bce0fc36" />
 
